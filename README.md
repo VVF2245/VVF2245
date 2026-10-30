@@ -42,8 +42,10 @@ Third-year Software Engineering student at the **University of Seville**. I enjo
 
 🇪🇸 Spanish (native) · 🇬🇧 English (C1, Cambridge CAE) · 🇩🇪 German (B1)
 
-### 📊 GitHub stats
+### 🐍 Contribution snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVF2245/VVF2245/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VVF2245/VVF2245/output/github-snake.svg"> <img alt="Contribution snake" src="https://raw.githubusercontent.com/VVF2245/VVF2245/output/github-snake.svg"> </picture> </p>
 
+### 📊 GitHub stats
 <p align="center"> <img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"> <img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages"> </p>
 
 ### 📫 Contact 
