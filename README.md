@@ -44,10 +44,7 @@ Third-year Software Engineering student at the **University of Seville**. I enjo
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VVF2245&show_icons=true&theme=tokyonight&hide_border=true" alt="stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVF2245&layout=compact&theme=tokyonight&hide_border=true" alt="top languages">
-</p>
+<p align="center"> <img height="190" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"> <img height="190" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages"> </p>
 
 ### 📫 Contact 
 
